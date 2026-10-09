@@ -1,51 +1,52 @@
 # Dr. Sumit Bhardwaj
+### Healthcare Analytics | SQL | Python | Power BI | Healthcare Operations
 
-### Healthcare Data Analyst | Healthcare Analytics | Open Source
+I am a healthcare professional with a background in clinical dentistry, US healthcare operations, prior authorization, clinical documentation review, and healthcare research.
 
-I am a healthcare professional building expertise in data analytics and applying data-driven approaches to healthcare problems.
+I apply healthcare domain knowledge and data analytics to explore healthcare utilization, patient outcomes, claims, payments, and operational performance.
 
-My current focus is on developing practical skills in:
+My portfolio focuses on practical healthcare analytics projects using Python, SQL, DuckDB, Excel, and Power BI.
 
-- SQL
-- Python
-- Power BI
-- Excel
-- Healthcare Data Analytics
-- Data Cleaning & Analysis
-- Clinical & Healthcare Research
+## Featured Projects
 
-## Current Projects
+### 1. Healthcare Claims Revenue Analytics
+End-to-end analysis of synthetic Medicare claims data, exploring claims activity, payment patterns, beneficiary characteristics, and healthcare financial performance.
 
-### 🏥 Healthcare Analytics
-Working on healthcare datasets to understand patient outcomes, utilization patterns, readmissions and other healthcare performance indicators.
+**Tools:** Python, SQL, DuckDB, Power BI
 
-### 📊 Power BI
-Building interactive healthcare dashboards and learning how to turn healthcare data into clear, actionable insights.
+### 2. Hospital Readmission Analytics
+Healthcare analytics project investigating patient readmissions, clinical characteristics, healthcare utilization, and factors associated with readmission.
 
-### 🐍 Python & SQL
-Developing practical skills in data cleaning, exploratory analysis, querying and healthcare analytics.
+**Tools:** Python, SQL, Power BI, exploratory analysis
 
-## Open Source
+### 3. CHI-Bench Healthcare Workflow Analysis
+Exploration of healthcare workflows and benchmark datasets, with an emphasis on structured analysis of healthcare operations.
 
-I am interested in contributing to open-source projects that use technology and data to address healthcare and public-interest problems in India.
+**Tools:** Python, healthcare workflow analysis
 
-Currently exploring opportunities with **Code for India**.
+## Areas of Interest
+- Healthcare Claims and Revenue Analytics
+- Healthcare Business Intelligence
+- Clinical and Operational Analytics
+- Data Cleaning and Exploratory Data Analysis
+- Healthcare KPI Reporting and Visualization
+- Healthcare Research and Evidence-Based Decision-Making
 
-## What I Bring
+## Technical Skills
+- **SQL:** Data querying, filtering, aggregation, and analytical queries
+- **Python:** pandas, NumPy, data cleaning, and exploratory analysis
+- **Power BI:** Data preparation, visualizations, dashboards, and reporting
+- **DuckDB:** Analytical SQL workflows
+- **Excel:** Data preparation and reporting
 
-- Healthcare domain knowledge
-- Clinical experience
-- Healthcare research experience
-- Data analysis
-- SQL
-- Python
-- Power BI
-- Analytical problem solving
+## Professional Background
+- Clinical dentistry and healthcare domain knowledge
+- US healthcare prior authorization and documentation review
+- Clinical research and scientific writing
 
-## Current Goal
+## Current Focus
+Building practical healthcare analytics projects that demonstrate how structured data analysis can support healthcare decision-making.
 
-To combine healthcare knowledge and data analytics to build useful, evidence-based solutions for healthcare and public-interest organizations.
+I welcome opportunities in healthcare data analytics, business intelligence, and healthcare analytics consulting.
 
----
-
-📍 New Delhi, India
+**Location:** New Delhi, India
